@@ -21,3 +21,11 @@ Zhu et al., 2019). 대개 속성어를 추출하고 주어
 행하거나, 속성카테고리를 추출하고 주어진 속
 성카테고리에 대한 감성을 분석하는 ACSC를
 수행하는 방식으로 활용된다
+
+### 속성어 추출(aspect term extraction)
+
+### 속성카테고리 감지(aspect category detection)
+
+### 속성어 감성분류(ATSC, Aspect Term Sentiment Classification)
+
+### 속성카테고리 감성분류(ACSC, Aspect Category Sentiment Classification)
