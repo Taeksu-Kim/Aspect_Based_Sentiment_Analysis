@@ -1,6 +1,8 @@
 # 참고자료
 BERT를 활용한 속성기반 감성분석: 속성카테고리 감성분류 모델 개발
 (https://scienceon.kisti.re.kr/commons/util/originalView.do?cn=JAKO202009135419336&dbt=JAKO&koi=KISTI1.1003%2FJNL.JAKO202009135419336)
+   
+https://github.com/Mounika2405/Aspect-Based-Sentiment-Analysis
 
 # Aspect_Based_Sentiment_Analysis
 
